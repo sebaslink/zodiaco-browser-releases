@@ -6,7 +6,7 @@
 
 ## Descarga para Windows (`.exe`)
 
-- **Instalador directo (`v0.1.2` · Windows 10/11 64-bit):** [**Descargar `Zodiaco-Browser-Setup-0.1.2.exe`**](https://github.com/sebaslink/zodiaco-browser-releases/releases/download/v0.1.2/Zodiaco-Browser-Setup-0.1.2.exe)
+- **Instalador directo (`v0.1.3` · Windows 10/11 64-bit):** [**Descargar `Zodiaco-Browser-Setup-0.1.3.exe`**](https://github.com/sebaslink/zodiaco-browser-releases/releases/download/v0.1.3/Zodiaco-Browser-Setup-0.1.3.exe)
 - **Todas las versiones y actualizaciones:** [**GitHub Releases (última versión)**](https://github.com/sebaslink/zodiaco-browser-releases/releases/latest)
 
 > **Incluye:** soporte **Widevine DRM** listo para usar (Spotify Web y streaming) y **actualizaciones automáticas** integradas (en modo automático o manual desde el menú **`ZODIACO ▾`**).  
@@ -106,4 +106,4 @@
 
 ## Requisitos del sistema
 - **Sistema operativo:** Windows 10 o Windows 11 (64-bit).
-- **Instalación:** Ejecuta `Zodiaco-Browser-Setup-0.1.2.exe` y sigue el asistente.
+- **Instalación:** Ejecuta `Zodiaco-Browser-Setup-0.1.3.exe` y sigue el asistente.
